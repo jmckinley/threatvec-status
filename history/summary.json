@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 294,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 43,
+    "timeDay": 43,
+    "timeWeek": 43,
+    "timeMonth": 43,
+    "timeYear": 43,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "time": 42,
+    "timeDay": 42,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-api-docs",
     "status": "down",
-    "uptime": "8.88%",
-    "uptimeDay": "8.88%",
-    "uptimeWeek": "8.88%",
-    "uptimeMonth": "8.88%",
-    "uptimeYear": "8.88%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2026-05-03": 0
+      "2026-05-03": 2
     }
   }
 ]
