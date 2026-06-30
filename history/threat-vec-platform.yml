@@ -1,7 +1,7 @@
 url: https://app.threatvec.com/healthz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-30T20:59:43.421Z
+status: up
+code: 200
+responseTime: 257
+lastUpdated: 2026-06-30T21:31:46.859Z
 startTime: 2026-05-03T19:47:55.037Z
 generator: Upptime <https://github.com/upptime/upptime>
