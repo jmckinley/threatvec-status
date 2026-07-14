@@ -1,7 +1,7 @@
 url: https://app.threatvec.com/status
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2026-07-14T04:24:46.106Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-07-14T16:06:17.062Z
 startTime: 2026-05-03T19:47:55.820Z
 generator: Upptime <https://github.com/upptime/upptime>
