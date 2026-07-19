@@ -13,7 +13,7 @@
     "time": 786,
     "timeDay": 1297,
     "timeWeek": 2010,
-    "timeMonth": 1233,
+    "timeMonth": 1242,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2026-06-12": 92,
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-dashboard",
     "status": "up",
-    "uptime": "92.28%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "91.24%",
-    "uptimeYear": "92.28%",
+    "uptime": "92.20%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "92.20%",
     "time": 177,
     "timeDay": 244,
     "timeWeek": 210,
     "timeMonth": 188,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2026-06-06": 144,
+      "2026-06-06": 254,
       "2026-06-07": 476,
       "2026-06-08": 196,
       "2026-06-09": 490,
@@ -112,8 +112,7 @@
       "2026-07-15": 146,
       "2026-07-16": 130,
       "2026-07-17": 96,
-      "2026-07-18": 67,
-      "2026-07-19": 9
+      "2026-07-18": 62
     }
   },
   {
@@ -122,17 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-mcp-server",
     "status": "up",
-    "uptime": "81.30%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "92.55%",
-    "uptimeYear": "81.30%",
+    "uptime": "81.23%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "81.23%",
     "time": 179,
     "timeDay": 222,
     "timeWeek": 228,
     "timeMonth": 196,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2026-05-18": 95,
       "2026-05-20": 1191,
       "2026-05-19": 102,
       "2026-05-22": 1424,
@@ -186,8 +186,7 @@
       "2026-07-15": 115,
       "2026-07-16": 100,
       "2026-07-17": 68,
-      "2026-07-18": 34,
-      "2026-07-19": 9
+      "2026-07-18": 34
     }
   },
   {
@@ -196,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-api-docs",
     "status": "up",
-    "uptime": "67.70%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "67.70%",
+    "uptime": "67.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "67.72%",
     "time": 235,
     "timeDay": 237,
     "timeWeek": 194,
@@ -270,8 +269,7 @@
       "2026-07-14": 61,
       "2026-07-15": 78,
       "2026-07-16": 70,
-      "2026-07-17": 48,
-      "2026-07-19": 4
+      "2026-07-17": 48
     }
   }
 ]
