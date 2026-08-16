@@ -4,10 +4,10 @@
     "url": "https://app.threatvec.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "86.80%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "86.74%",
     "uptimeMonth": "92.79%",
     "uptimeYear": "97.91%",
     "time": 1060,
@@ -16,7 +16,7 @@
     "timeMonth": 1353,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2026-08-01": 32,
+      "2026-08-01": 15,
       "2026-08-02": 145,
       "2026-08-03": 200,
       "2026-08-04": 233,
@@ -31,7 +31,7 @@
       "2026-08-13": 215,
       "2026-08-14": 237,
       "2026-08-15": 130,
-      "2026-08-16": 90
+      "2026-08-16": 105
     }
   },
   {
@@ -39,10 +39,10 @@
     "url": "https://app.threatvec.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "97.39%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "92.64%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "92.68%",
     "uptimeMonth": "91.01%",
     "uptimeYear": "97.39%",
     "time": 188,
@@ -85,9 +85,9 @@
     "url": "https://app.threatvec.com/mcp/info",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-mcp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "97.32%",
-    "uptimeDay": "99.63%",
+    "uptimeDay": "99.65%",
     "uptimeWeek": "94.60%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "97.32%",
@@ -142,12 +142,12 @@
     "url": "https://app.threatvec.com/docs",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-api-docs",
-    "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.72%",
+    "status": "down",
+    "uptime": "97.20%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.73%",
     "uptimeMonth": "93.86%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.20%",
     "time": 229,
     "timeDay": 175,
     "timeWeek": 262,
@@ -195,7 +195,7 @@
       "2026-08-12": 58,
       "2026-08-13": 92,
       "2026-08-14": 77,
-      "2026-08-16": 1
+      "2026-08-16": 0
     }
   }
 ]
