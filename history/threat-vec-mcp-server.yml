@@ -1,7 +1,7 @@
 url: https://app.threatvec.com/mcp/info
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-21T07:08:11.144Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2026-08-21T07:15:07.772Z
 startTime: 2026-05-03T19:47:56.364Z
 generator: Upptime <https://github.com/upptime/upptime>
