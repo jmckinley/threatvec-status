@@ -40,9 +40,9 @@
     "slug": "threat-vec-dashboard",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "91.59%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "97.59%",
     "time": 301,
     "timeDay": 240,
@@ -50,8 +50,8 @@
     "timeMonth": 431,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2026-07-21": 26,
       "2026-07-22": 161,
-      "2026-07-21": 6,
       "2026-07-23": 164,
       "2026-07-24": 181,
       "2026-07-26": 88,
@@ -78,7 +78,7 @@
       "2026-08-16": 30,
       "2026-08-18": 27,
       "2026-08-21": 21,
-      "2026-08-22": 72
+      "2026-08-22": 62
     }
   },
   {
@@ -88,9 +88,9 @@
     "slug": "threat-vec-mcp-server",
     "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "97.54%",
     "time": 188,
     "timeDay": 217,
@@ -98,6 +98,7 @@
     "timeMonth": 196,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2026-07-06": 16,
       "2026-07-08": 37,
       "2026-07-09": 18,
       "2026-07-10": 84,
@@ -137,7 +138,7 @@
       "2026-08-16": 25,
       "2026-08-18": 22,
       "2026-08-21": 16,
-      "2026-08-22": 58
+      "2026-08-22": 53
     }
   },
   {
@@ -146,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-api-docs",
     "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "96.98%",
+    "uptime": "97.37%",
+    "uptimeDay": "97.02%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "94.42%",
-    "uptimeYear": "97.39%",
+    "uptimeYear": "97.37%",
     "time": 225,
     "timeDay": 232,
     "timeWeek": 184,
     "timeMonth": 216,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-06-30": 18,
+      "2026-06-30": 45,
       "2026-07-01": 327,
       "2026-07-02": 147,
       "2026-07-03": 67,
@@ -198,7 +199,7 @@
       "2026-08-14": 77,
       "2026-08-16": 20,
       "2026-08-18": 17,
-      "2026-08-22": 44
+      "2026-08-22": 43
     }
   }
 ]
