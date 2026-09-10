@@ -4,17 +4,17 @@
     "url": "https://app.threatvec.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "90.21%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.06%",
-    "time": 1452,
-    "timeDay": 2593,
-    "timeWeek": 2443,
-    "timeMonth": 2158,
-    "timeYear": 1452,
+    "time": 1451,
+    "timeDay": 2296,
+    "timeWeek": 2417,
+    "timeMonth": 2153,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2026-08-30": 166,
       "2026-08-31": 153,
@@ -27,7 +27,7 @@
       "2026-09-07": 131,
       "2026-09-08": 51,
       "2026-09-09": 45,
-      "2026-09-10": 47
+      "2026-09-10": 48
     }
   },
   {
