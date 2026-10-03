@@ -4,17 +4,17 @@
     "url": "https://app.threatvec.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-platform",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.12%",
-    "uptimeYear": "99.23%",
-    "time": 1700,
-    "timeDay": 1129,
-    "timeWeek": 1046,
-    "timeMonth": 2935,
-    "timeYear": 1700,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "99.21%",
+    "time": 1699,
+    "timeDay": 1199,
+    "timeWeek": 1059,
+    "timeMonth": 2924,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2026-09-06": 260,
       "2026-09-05": 2,
@@ -43,7 +43,7 @@
       "2026-09-30": 48,
       "2026-10-01": 24,
       "2026-10-02": 36,
-      "2026-10-03": 30
+      "2026-10-03": 69
     }
   },
   {
@@ -51,15 +51,15 @@
     "url": "https://app.threatvec.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-dashboard",
-    "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.38%",
+    "status": "up",
+    "uptime": "98.36%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.36%",
     "time": 414,
-    "timeDay": 333,
-    "timeWeek": 326,
+    "timeDay": 363,
+    "timeWeek": 330,
     "timeMonth": 506,
     "timeYear": 414,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2026-09-29": 19,
       "2026-10-01": 19,
       "2026-10-02": 16,
-      "2026-10-03": 10
+      "2026-10-03": 49
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "https://app.threatvec.com/mcp/info",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-mcp-server",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "98.25%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "98.23%",
     "time": 190,
-    "timeDay": 174,
-    "timeWeek": 178,
-    "timeMonth": 189,
+    "timeDay": 210,
+    "timeWeek": 183,
+    "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-07-21": 24,
@@ -171,7 +171,7 @@
       "2026-09-23": 15,
       "2026-09-27": 25,
       "2026-09-28": 22,
-      "2026-10-03": 5
+      "2026-10-03": 44
     }
   },
   {
@@ -179,15 +179,15 @@
     "url": "https://app.threatvec.com/docs",
     "icon": "https://icons.duckduckgo.com/ip3/app.threatvec.com.ico",
     "slug": "threat-vec-api-docs",
-    "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "98.22%",
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "98.20%",
     "time": 210,
-    "timeDay": 253,
-    "timeWeek": 184,
+    "timeDay": 252,
+    "timeWeek": 187,
     "timeMonth": 178,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -240,7 +240,7 @@
       "2026-09-12": 20,
       "2026-09-27": 20,
       "2026-09-28": 17,
-      "2026-10-03": 0
+      "2026-10-03": 39
     }
   }
 ]
