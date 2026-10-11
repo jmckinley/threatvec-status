@@ -6,7 +6,7 @@
     "slug": "threat-vec-platform",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "97.91%",
+    "uptimeDay": "97.88%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "99.25%",
@@ -56,7 +56,7 @@
     "slug": "threat-vec-dashboard",
     "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "99.31%",
+    "uptimeDay": "99.28%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.45%",
@@ -122,8 +122,8 @@
     "slug": "threat-vec-mcp-server",
     "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.34%",
     "time": 190,
@@ -177,7 +177,7 @@
       "2026-09-28": 22,
       "2026-10-03": 44,
       "2026-10-10": 43,
-      "2026-10-11": 5
+      "2026-10-11": 6
     }
   },
   {
@@ -187,8 +187,8 @@
     "slug": "threat-vec-api-docs",
     "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.32%",
     "time": 210,
@@ -248,7 +248,7 @@
       "2026-09-28": 17,
       "2026-10-03": 39,
       "2026-10-10": 39,
-      "2026-10-11": 0
+      "2026-10-11": 1
     }
   }
 ]
